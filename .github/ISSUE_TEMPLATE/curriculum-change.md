@@ -1,5 +1,5 @@
 ---
-name: Curriculum change
+name: Curriculum Change
 about: Create an issue for an update to current curriculum
 
 ---
@@ -25,4 +25,5 @@ about: Create an issue for an update to current curriculum
    * Was the fix implemented?
 
    * If the fix was implemented
+      * Reference the Pull Request in this issue
       * Notify an instructor and place their name here
